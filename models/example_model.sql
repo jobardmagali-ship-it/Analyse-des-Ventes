@@ -1,0 +1,2 @@
+SELECT 'Hello, dbt Cloud!' AS message
+
